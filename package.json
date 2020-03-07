@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Polly-foz/SimpleUI/issues"
   },
-  "homepage": "https://github.com/Polly-foz/SimpleUI#readme"
+  "homepage": "https://github.com/Polly-foz/SimpleUI#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
